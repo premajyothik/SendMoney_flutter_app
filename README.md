@@ -18,9 +18,9 @@ Architecture, Cubit state management, and uses a fake API for transactions.
 
 ```bash
 git clone https://github.com/premajyothik/SendMoney_flutter_app.git
-cd send_money_app
+cd SendMoney_flutter_app
 flutter pub get
-flutter pub run build_runner build
+dart run build_runner build
 flutter run
 flutter test
 ```
